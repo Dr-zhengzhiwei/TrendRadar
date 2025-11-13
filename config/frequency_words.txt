@@ -21,15 +21,21 @@ NVIDIA
 AMD
 
 谷歌
+
 google
+
 gemini
+
 deepmind
 
 chatgpt
+
 openai
+
 sora
 
 claude
+
 Anthropic
 
 
@@ -41,14 +47,24 @@ ai
 机器人
 
 GPT 
+
 Claude
+
 Gemini
+
 Llama 
+
 Qwen 
+
 DeepSeek
+
 OpenAI 
+
+
 AI
+
 Sora
+
 
 普瑞基准
 
